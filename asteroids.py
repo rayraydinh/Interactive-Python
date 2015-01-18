@@ -3,7 +3,7 @@ import simplegui
 import math
 import random
 
-# globals for user interface
+# globals for user interface 
 WIDTH = 800
 HEIGHT = 600
 score = 0
